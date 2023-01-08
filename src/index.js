@@ -1,5 +1,6 @@
 const path = require('path');
 const express = require('express');
+const cors = require('cors');
 const morgan = require('morgan');
 const { engine } = require('express-handlebars');
 const bodyParser = require('body-parser');
@@ -9,6 +10,8 @@ require('dotenv').config();
 
 const port = process.env.PORT || 3000;
 const connection = require('./config/db');
+
+app.use(cors());
 
 // database init
 function mysqlConnect() {
@@ -49,6 +52,15 @@ app.engine(
 );
 app.set('view engine', 'hbs');
 app.set('views', path.join(__dirname, 'resources', 'views'));
+
+app.use(function (req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header(
+        'Access-Control-Allow-Headers',
+        'Origin, X-Requested-With, Content-Type, Accept',
+    );
+    next();
+});
 
 //Routes
 const itemRoutes = require('./routes/Item');

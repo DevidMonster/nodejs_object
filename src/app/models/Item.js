@@ -16,9 +16,11 @@ const Item = function (item) {
 
 Item.readItem = function (product_name, result) {
     let search = '';
-    if (product_name != '') {
+    console.log(product_name);
+    if (product_name !== undefined) {
         search = `having p.name like '%${product_name}%'`;
     }
+    console.log(search);
     connection.query(
         `SELECT p.*, GROUP_CONCAT(DISTINCT i.image) AS images, GROUP_CONCAT(DISTINCT c.name) AS colors, GROUP_CONCAT(DISTINCT s.name) AS sizes FROM products AS p LEFT JOIN product_images AS i ON p.id = i.product_id LEFT JOIN product_colors AS pc ON p.id = pc.product_id LEFT JOIN colors AS c ON pc.color_id = c.id LEFT JOIN product_sizes AS ps ON p.id = ps.product_id LEFT JOIN sizes AS s ON ps.size_id = s.id GROUP BY p.id ${search}`,
         (err, res) => {
