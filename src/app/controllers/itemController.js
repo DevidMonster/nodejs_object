@@ -3,12 +3,16 @@ const Product = require('../models/Item');
 const getItem = async (req, res) => {
     try {
         const { search } = req.query
-
-        const user = await Product.find({
-            $or: [
-                { name: { $regex: search, $options: 'i' } },
-            ]
-        })
+        let user = [];
+        if(!!search) {
+            user = await Product.find({
+                $or: [
+                    { name: { $regex: search, $options: 'i' } },
+                ]
+            })
+        } else {
+            user = await Product.find({})
+        }
         console.log(user)
         res.status(200).json(user)
     } catch(err) {
