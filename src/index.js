@@ -4,35 +4,42 @@ const cors = require('cors');
 const morgan = require('morgan');
 const { engine } = require('express-handlebars');
 const bodyParser = require('body-parser');
-const mysql = require('mysql2');
+// const mysql = require('mysql2');
+// const connection = require('./config/db');
+const mongoose = require('mongoose')
 const app = express();
 require('dotenv').config();
 
 const port = process.env.PORT || 3000;
-const connection = require('./config/db');
 app.use(cors());
+mongoose.set('strictQuery', false)
+
+const User = require('./app/models/user');
+const data = require('./data');
 
 // database init
-function mysqlConnect() {
-    global.connection = mysql.createConnection(connection);
+// function mysqlConnect() {
+//     global.connection = mysql.createConnection(connection);
 
-    global.connection.connect(function (err) {
-        if (err) {
-            console.log('error when connecting to db');
-            setTimeout(mysqlConnect, 2000);
-        }
-        console.log('connected to database');
-    });
-    global.connection.on('error', function (err) {
-        if (err.code === 'PROTOCOL_CONNECTION_LOST') {
-            mysqlConnect();
-        } else {
-            throw err;
-        }
-    });
-}
+//     global.connection.connect(function (err) {
+//         if (err) {
+//             console.log('error when connecting to db');
+//             setTimeout(mysqlConnect, 2000);
+//         }
+//         console.log('connected to database');
+//     });
+//     global.connection.on('error', function (err) {
+//         if (err.code === 'PROTOCOL_CONNECTION_LOST') {
+//             mysqlConnect();
+//         } else {
+//             throw err;
+//         }
+//     });
+// }
 
-mysqlConnect();
+// mysqlConnect();
+
+
 
 //Use static folder
 app.use(express.static(path.join(__dirname, 'public')));
@@ -62,10 +69,24 @@ app.use(function (req, res, next) {
 });
 
 //Routes
+const generalRoutes = require('./routes/general');
+const categoryRoutes = require('./routes/category');
 const itemRoutes = require('./routes/Item');
 
+app.use('/general', generalRoutes);
+app.use('/category', categoryRoutes);
 app.use('/item', itemRoutes);
 
-app.listen(port, () => {
-    console.log(`Bạn đang chạy ở cổng: http://localhost:${port}`);
-});
+//connect database
+mongoose.connect(process.env.MONGO_URL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+}).then(() => {
+    app.listen(port, () => {
+        console.log(`Bạn đang chạy ở cổng: http://localhost:${port}`);
+    });
+
+    /*ONLY ADD DATA ONE TIME*/ 
+    //User.insertMany(data.dataUser)
+}).catch((error) => console.log(`${error} did not connect`))
+
