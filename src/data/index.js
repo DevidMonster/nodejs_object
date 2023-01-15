@@ -17323,6 +17323,7 @@ const dataAffiliateStat = [
         "63701d74f03239867500014b",
         "63701d74f032398675000152",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17341,6 +17342,7 @@ const dataAffiliateStat = [
         "63701d74f03239569400002d",
         "63701d74f032394c4900014b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17361,6 +17363,7 @@ const dataAffiliateStat = [
         "63701d74f032390a34000340",
         "63701d74f03239d40b000087",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17385,6 +17388,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc500003f",
         "63701d74f03239bef0000159",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17402,6 +17406,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000138",
         "63701d74f032394441000314",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17426,6 +17431,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e000032",
         "63701d74f03239db6900013d",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17449,6 +17455,7 @@ const dataAffiliateStat = [
         "63701d74f03239867500012f",
         "63701d74f03239f09e0001ad",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17466,6 +17473,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000155",
         "63701d74f03239d81e00001e",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17487,6 +17495,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e000196",
         "63701d74f03239d591000349",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17507,6 +17516,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000134",
         "63701d74f03239cdc5000032",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17527,6 +17537,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000147",
         "63701d74f03239b913000040",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17547,6 +17558,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00005d",
         "63701d74f03239528f000041",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17564,6 +17576,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000013c",
         "63701d74f03239db69000155",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17585,6 +17598,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000143",
         "63701d74f03239569400001b",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17598,6 +17612,7 @@ const dataAffiliateStat = [
       occupation: "Research Associate",
       phoneNumber: "9889514743",
       transactions: ["63701d74f032394441000305"],
+avatar: null,
       role: "user",
     },
     {
@@ -17619,6 +17634,7 @@ const dataAffiliateStat = [
         "63701d74f03239569400001b",
         "63701d74f03239d591000330",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17642,6 +17658,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00003f",
         "63701d74f03239867500014c",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17655,6 +17672,7 @@ const dataAffiliateStat = [
       occupation: "Health Coach I",
       phoneNumber: "8958889697",
       transactions: ["63701d74f0323944410002fc"],
+avatar: null,
       role: "user",
     },
     {
@@ -17668,6 +17686,7 @@ const dataAffiliateStat = [
       occupation: "Programmer II",
       phoneNumber: "1904503194",
       transactions: ["63701d74f032395b33000132"],
+avatar: null,
       role: "admin",
     },
     {
@@ -17687,6 +17706,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300014f",
         "63701d74f032394441000318",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17705,6 +17725,7 @@ const dataAffiliateStat = [
         "63701d74f032394441000313",
         "63701d74f03239867500013e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17728,6 +17749,7 @@ const dataAffiliateStat = [
         "63701d74f032390a34000348",
         "63701d74f03239bef0000153",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17741,6 +17763,7 @@ const dataAffiliateStat = [
       occupation: "Design Engineer",
       phoneNumber: "2019015578",
       transactions: ["63701d74f03239bef0000140"],
+avatar: null,
       role: "admin",
     },
     {
@@ -17759,6 +17782,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e000192",
         "63701d74f032394c4900014f",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17782,6 +17806,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400032b",
         "63701d74f032394441000303",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17806,6 +17831,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e000027",
         "63701d74f032395694000045",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17826,6 +17852,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001be",
         "63701d74f032396b8e000025",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17850,6 +17877,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f00001c",
         "63701d74f03239cdc500001a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17863,6 +17891,7 @@ const dataAffiliateStat = [
       occupation: "Human Resources Manager",
       phoneNumber: "7832710010",
       transactions: ["63701d74f03239b91300002c"],
+avatar: null,
       role: "admin",
     },
     {
@@ -17884,6 +17913,7 @@ const dataAffiliateStat = [
         "63701d74f03239b91300003e",
         "63701d74f032390a3400034b",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17897,6 +17927,7 @@ const dataAffiliateStat = [
       occupation: "Help Desk Operator",
       phoneNumber: "5849922301",
       transactions: ["63701d74f03239b91300001a"],
+avatar: null,
       role: "admin",
     },
     {
@@ -17917,6 +17948,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000071",
         "63701d74f03239528f00003f",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17939,6 +17971,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000147",
         "63701d74f03239b7f7000031",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -17958,6 +17991,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000152",
         "63701d74f03239bef0000131",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -17980,6 +18014,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000135",
         "63701d74f0323986f300013b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -17999,6 +18034,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00003e",
         "63701d74f032394c49000153",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18018,6 +18054,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001a7",
         "63701d74f032395694000032",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18037,6 +18074,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001a4",
         "63701d74f03239c72c0001b6",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18058,6 +18096,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000151",
         "63701d74f03239c72c0001a1",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18076,6 +18115,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000156",
         "63701d74f03239d591000334",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18093,6 +18133,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000140",
         "63701d74f03239db69000150",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18115,6 +18156,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc500001b",
         "63701d74f03239b7f700003d",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18132,6 +18174,7 @@ const dataAffiliateStat = [
         "63701d74f03239db6900012f",
         "63701d74f03239b913000035",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18151,6 +18194,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef000013b",
         "63701d74f03239db69000145",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18174,6 +18218,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e00019f",
         "63701d74f03239528f00001b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18195,6 +18240,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000067",
         "63701d74f03239b91300002f",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18214,6 +18260,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000149",
         "63701d74f032396b8e000035",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18227,6 +18274,7 @@ const dataAffiliateStat = [
       occupation: "Graphic Designer",
       phoneNumber: "9558909811",
       transactions: ["63701d74f03239444100030c", "63701d74f03239569400002b"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18251,6 +18299,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001b6",
         "63701d74f03239569400001d",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18275,6 +18324,7 @@ const dataAffiliateStat = [
         "63701d74f03239b913000030",
         "63701d74f03239cdc500001b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18294,6 +18344,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000028",
         "63701d74f03239d40b000058",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18313,6 +18364,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000135",
         "63701d74f032390a3400032e",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18337,6 +18389,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000045",
         "63701d74f03239528f000042",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18357,6 +18410,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000014f",
         "63701d74f032394441000303",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18379,6 +18433,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000034",
         "63701d74f03239867500013e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18397,6 +18452,7 @@ const dataAffiliateStat = [
         "63701d74f03239d591000352",
         "63701d74f032394c4900012e",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18415,6 +18471,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000143",
         "63701d74f032396b8e000029",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18433,6 +18490,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f700003e",
         "63701d74f03239d81e00003f",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18450,6 +18508,7 @@ const dataAffiliateStat = [
         "63701d74f03239b913000029",
         "63701d74f03239d591000344",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18474,6 +18533,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000142",
         "63701d74f03239d81e000024",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18496,6 +18556,7 @@ const dataAffiliateStat = [
         "63701d74f032394c49000135",
         "63701d74f032396b8e000025",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18509,6 +18570,7 @@ const dataAffiliateStat = [
       occupation: "Junior Executive",
       phoneNumber: "6543510407",
       transactions: ["63701d74f032396b8e00001f", "63701d74f032396b8e000033"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18530,6 +18592,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00005f",
         "63701d74f03239bef0000147",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18551,6 +18614,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000151",
         "63701d74f03239cdc5000046",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18568,6 +18632,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000146",
         "63701d74f03239d40b00006e",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18585,6 +18650,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000041",
         "63701d74f032396b8e000020",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18606,6 +18672,7 @@ const dataAffiliateStat = [
         "63701d74f03239569400003a",
         "63701d74f03239b7f700002a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18619,6 +18686,7 @@ const dataAffiliateStat = [
       occupation: "Chief Design Engineer",
       phoneNumber: "7296895830",
       transactions: ["63701d74f03239bef0000141"],
+avatar: null,
       role: "user",
     },
     {
@@ -18640,6 +18708,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000141",
         "63701d74f03239d59100032e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18663,6 +18732,7 @@ const dataAffiliateStat = [
         "63701d74f032390a34000332",
         "63701d74f032394c49000132",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -18676,6 +18746,7 @@ const dataAffiliateStat = [
       occupation: "Engineer IV",
       phoneNumber: "2398256034",
       transactions: ["63701d74f03239b7f700003d", "63701d74f03239867500013f"],
+avatar: null,
       role: "user",
     },
     {
@@ -18696,6 +18767,7 @@ const dataAffiliateStat = [
         "63701d74f03239867500014c",
         "63701d74f03239d59100034a",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18718,6 +18790,7 @@ const dataAffiliateStat = [
         "63701d74f0323944410002f9",
         "63701d74f03239b7f700002e",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18731,6 +18804,7 @@ const dataAffiliateStat = [
       occupation: "Electrical Engineer",
       phoneNumber: "9727176356",
       transactions: ["63701d74f0323986f3000143", "63701d74f032395694000022"],
+avatar: null,
       role: "user",
     },
     {
@@ -18749,6 +18823,7 @@ const dataAffiliateStat = [
         "63701d74f03239d591000344",
         "63701d74f032398675000133",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18762,6 +18837,7 @@ const dataAffiliateStat = [
       occupation: "Senior Financial Analyst",
       phoneNumber: "3363114409",
       transactions: ["63701d74f032396b8e000036", "63701d74f032396b8e00001a"],
+avatar: null,
       role: "admin",
     },
     {
@@ -18775,6 +18851,7 @@ const dataAffiliateStat = [
       occupation: "Structural Analysis Engineer",
       phoneNumber: "8867064598",
       transactions: ["63701d74f03239c72c0001aa", "63701d74f03239cdc5000044"],
+avatar: null,
       role: "admin",
     },
     {
@@ -18796,6 +18873,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000131",
         "63701d74f03239528f000032",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18809,6 +18887,7 @@ const dataAffiliateStat = [
       occupation: "Registered Nurse",
       phoneNumber: "4006862957",
       transactions: ["63701d74f032399c00000147"],
+avatar: null,
       role: "user",
     },
     {
@@ -18822,6 +18901,7 @@ const dataAffiliateStat = [
       occupation: "Civil Engineer",
       phoneNumber: "1939969138",
       transactions: ["63701d74f03239c72c0001a0", "63701d74f032396b8e000042"],
+avatar: null,
       role: "admin",
     },
     {
@@ -18840,6 +18920,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000142",
         "63701d74f03239b7f7000027",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -18858,6 +18939,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e000043",
         "63701d74f0323986f3000134",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18881,6 +18963,7 @@ const dataAffiliateStat = [
         "63701d74f032394c4900014a",
         "63701d74f03239db69000159",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18901,6 +18984,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001ab",
         "63701d74f0323986f300013e",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18914,6 +18998,7 @@ const dataAffiliateStat = [
       occupation: "General Manager",
       phoneNumber: "1882605759",
       transactions: ["63701d74f03239d591000330", "63701d74f032399c00000153"],
+avatar: null,
       role: "user",
     },
     {
@@ -18935,6 +19020,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300014d",
         "63701d74f032394c4900015b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18952,6 +19038,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400032f",
         "63701d74f0323986f300013a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18973,6 +19060,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000014b",
         "63701d74f03239569400001a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -18990,6 +19078,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000157",
         "63701d74f03239d591000352",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19014,6 +19103,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f700002b",
         "63701d74f03239d40b000060",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19027,6 +19117,7 @@ const dataAffiliateStat = [
       occupation: "Editor",
       phoneNumber: "1985831106",
       transactions: ["63701d74f03239c72c0001b2", "63701d74f03239bef000012f"],
+avatar: null,
       role: "user",
     },
     {
@@ -19047,6 +19138,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc500002d",
         "63701d74f032396b8e000023",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19066,6 +19158,7 @@ const dataAffiliateStat = [
         "63701d74f032390a34000357",
         "63701d74f03239d81e000020",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19079,6 +19172,7 @@ const dataAffiliateStat = [
       occupation: "Financial Analyst",
       phoneNumber: "3121990932",
       transactions: ["63701d74f03239bef0000158", "63701d74f03239cdc500001f"],
+avatar: null,
       role: "user",
     },
     {
@@ -19092,6 +19186,7 @@ const dataAffiliateStat = [
       occupation: "Safety Technician II",
       phoneNumber: "6898002758",
       transactions: ["63701d74f03239c72c0001ba", "63701d74f032395694000037"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19116,6 +19211,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc500001d",
         "63701d74f03239d40b00006f",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19138,6 +19234,7 @@ const dataAffiliateStat = [
         "63701d74f032394441000316",
         "63701d74f032398675000154",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19151,6 +19248,7 @@ const dataAffiliateStat = [
       occupation: "Project Manager",
       phoneNumber: "5779240200",
       transactions: ["63701d74f03239d81e000026", "63701d74f032394441000315"],
+avatar: null,
       role: "admin",
     },
     {
@@ -19172,6 +19270,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00005e",
         "63701d74f032395b3300013f",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19191,6 +19290,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000085",
         "63701d74f032394c49000151",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19210,6 +19310,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f7000031",
         "63701d74f03239d591000345",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19223,6 +19324,7 @@ const dataAffiliateStat = [
       occupation: "Legal Assistant",
       phoneNumber: "6137536796",
       transactions: ["63701d74f03239528f000022", "63701d74f032390a3400033d"],
+avatar: null,
       role: "user",
     },
     {
@@ -19245,6 +19347,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000013a",
         "63701d74f03239c72c0001b4",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19265,6 +19368,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001bf",
         "63701d74f032395694000044",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19288,6 +19392,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c000197",
         "63701d74f0323944410002f8",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19306,6 +19411,7 @@ const dataAffiliateStat = [
         "63701d74f032398675000134",
         "63701d74f032394c49000155",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19324,6 +19430,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400033d",
         "63701d74f03239bef0000140",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19345,6 +19452,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000044",
         "63701d74f032390a34000333",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19364,6 +19472,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000130",
         "63701d74f03239528f00001c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19384,6 +19493,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000013f",
         "63701d74f03239bef0000131",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19402,6 +19512,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c000198",
         "63701d74f032394c49000141",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19426,6 +19537,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000154",
         "63701d74f03239b7f7000030",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19446,6 +19558,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001a8",
         "63701d74f03239569400002a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19464,6 +19577,7 @@ const dataAffiliateStat = [
         "63701d74f03239b913000045",
         "63701d74f032395b33000134",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19487,6 +19601,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000035",
         "63701d74f0323986f3000141",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19500,6 +19615,7 @@ const dataAffiliateStat = [
       occupation: "Assistant Media Planner",
       phoneNumber: "5983301528",
       transactions: ["63701d74f032398675000133"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19517,6 +19633,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c000199",
         "63701d74f032396b8e00002a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19530,6 +19647,7 @@ const dataAffiliateStat = [
       occupation: "Administrative Officer",
       phoneNumber: "1704930868",
       transactions: ["63701d74f03239528f00001e"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19548,6 +19666,7 @@ const dataAffiliateStat = [
         "63701d74f032398675000155",
         "63701d74f03239cdc500001b",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19569,6 +19688,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000079",
         "63701d74f03239c72c0001a0",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19582,6 +19702,7 @@ const dataAffiliateStat = [
       occupation: "VP Quality Control",
       phoneNumber: "8018242131",
       transactions: ["63701d74f03239d40b000088"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19595,6 +19716,7 @@ const dataAffiliateStat = [
       occupation: "Programmer Analyst III",
       phoneNumber: "9953853099",
       transactions: ["63701d74f03239d81e000022", "63701d74f03239d591000356"],
+avatar: null,
       role: "user",
     },
     {
@@ -19619,6 +19741,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f000032",
         "63701d74f03239d40b00007c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19640,6 +19763,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00001a",
         "63701d74f03239b913000022",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19653,6 +19777,7 @@ const dataAffiliateStat = [
       occupation: "Paralegal",
       phoneNumber: "8256109065",
       transactions: ["63701d74f03239c72c000198", "63701d74f03239f09e0001ad"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19677,6 +19802,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000080",
         "63701d74f032395694000033",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19695,6 +19821,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc500003e",
         "63701d74f03239d591000353",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19717,6 +19844,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400034a",
         "63701d74f0323986f300014f",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19734,6 +19862,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f700001b",
         "63701d74f032390a3400032d",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19757,6 +19886,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000144",
         "63701d74f03239bef0000144",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19777,6 +19907,7 @@ const dataAffiliateStat = [
         "63701d74f0323944410002f4",
         "63701d74f032394c4900014c",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19801,6 +19932,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e000019",
         "63701d74f03239444100030e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19825,6 +19957,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c00019b",
         "63701d74f03239db6900015a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19844,6 +19977,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000014e",
         "63701d74f03239b7f7000040",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19865,6 +19999,7 @@ const dataAffiliateStat = [
         "63701d74f032394c49000141",
         "63701d74f03239d81e000021",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19882,6 +20017,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f000044",
         "63701d74f03239d81e000027",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -19906,6 +20042,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f300013f",
         "63701d74f03239f09e00019f",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -19923,6 +20060,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e000025",
         "63701d74f03239d81e00001e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19942,6 +20080,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00001c",
         "63701d74f032399c00000130",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19965,6 +20104,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000029",
         "63701d74f03239444100030c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -19984,6 +20124,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c000192",
         "63701d74f03239528f000028",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20005,6 +20146,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300015a",
         "63701d74f03239d40b000083",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20024,6 +20166,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000133",
         "63701d74f032390a3400034c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20047,6 +20190,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000158",
         "63701d74f032395b3300014c",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20070,6 +20214,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001b3",
         "63701d74f03239d81e00002c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20092,6 +20237,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e00019e",
         "63701d74f032399c00000139",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20110,6 +20256,7 @@ const dataAffiliateStat = [
         "63701d74f032394c49000136",
         "63701d74f03239f09e000198",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20130,6 +20277,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00001f",
         "63701d74f032396b8e00001b",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20151,6 +20299,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000152",
         "63701d74f032395b33000150",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20168,6 +20317,7 @@ const dataAffiliateStat = [
         "63701d74f03239db6900013b",
         "63701d74f032395694000030",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20191,6 +20341,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001bf",
         "63701d74f03239569400002a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20209,6 +20360,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000032",
         "63701d74f032390a34000337",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20231,6 +20383,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400032e",
         "63701d74f03239d81e00001c",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20255,6 +20408,7 @@ const dataAffiliateStat = [
         "63701d74f032398675000141",
         "63701d74f03239bef0000156",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20275,6 +20429,7 @@ const dataAffiliateStat = [
         "63701d74f03239d59100032f",
         "63701d74f03239d591000349",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20294,6 +20449,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f700003e",
         "63701d74f0323944410002f1",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20317,6 +20473,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000013b",
         "63701d74f03239bef0000150",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20341,6 +20498,7 @@ const dataAffiliateStat = [
         "63701d74f032394c4900013e",
         "63701d74f03239f09e0001a0",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20365,6 +20523,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f00003d",
         "63701d74f032395b3300014b",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20388,6 +20547,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f7000026",
         "63701d74f032394441000310",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20401,6 +20561,7 @@ const dataAffiliateStat = [
       occupation: "Safety Technician III",
       phoneNumber: "5498736984",
       transactions: ["63701d74f032399c00000156"],
+avatar: null,
       role: "user",
     },
     {
@@ -20414,6 +20575,7 @@ const dataAffiliateStat = [
       occupation: "Senior Developer",
       phoneNumber: "9499366779",
       transactions: ["63701d74f03239d81e000033", "63701d74f03239c72c0001a5"],
+avatar: null,
       role: "user",
     },
     {
@@ -20432,6 +20594,7 @@ const dataAffiliateStat = [
         "63701d74f03239867500013f",
         "63701d74f03239d59100033c",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20455,6 +20618,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000072",
         "63701d74f032394441000303",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20474,6 +20638,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00006f",
         "63701d74f032395b3300012f",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20494,6 +20659,7 @@ const dataAffiliateStat = [
         "63701d74f0323944410002f1",
         "63701d74f03239528f000019",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20514,6 +20680,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e00002b",
         "63701d74f032390a3400033b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20533,6 +20700,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef000014c",
         "63701d74f03239569400001f",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20556,6 +20724,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000147",
         "63701d74f03239569400002c",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20569,6 +20738,7 @@ const dataAffiliateStat = [
       occupation: "Information Systems Manager",
       phoneNumber: "2275289998",
       transactions: ["63701d74f03239db69000137", "63701d74f032394c49000134"],
+avatar: null,
       role: "user",
     },
     {
@@ -20587,6 +20757,7 @@ const dataAffiliateStat = [
         "63701d74f03239d591000347",
         "63701d74f032390a34000355",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20606,6 +20777,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000020",
         "63701d74f032399c00000154",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20623,6 +20795,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000140",
         "63701d74f0323944410002fe",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20646,6 +20819,7 @@ const dataAffiliateStat = [
         "63701d74f032394c49000135",
         "63701d74f03239d591000331",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20659,6 +20833,7 @@ const dataAffiliateStat = [
       occupation: "GIS Technical Architect",
       phoneNumber: "6789537591",
       transactions: ["63701d74f03239f09e0001aa"],
+avatar: null,
       role: "admin",
     },
     {
@@ -20676,6 +20851,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000143",
         "63701d74f032399c00000155",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20689,6 +20865,7 @@ const dataAffiliateStat = [
       occupation: "Teacher",
       phoneNumber: "8182331761",
       transactions: ["63701d74f03239528f00003f"],
+avatar: null,
       role: "admin",
     },
     {
@@ -20710,6 +20887,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000140",
         "63701d74f03239528f000031",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20723,6 +20901,7 @@ const dataAffiliateStat = [
       occupation: "Graphic Designer",
       phoneNumber: "4954233926",
       transactions: ["63701d74f0323986f3000158"],
+avatar: null,
       role: "admin",
     },
     {
@@ -20742,6 +20921,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001b2",
         "63701d74f03239cdc500002d",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20765,6 +20945,7 @@ const dataAffiliateStat = [
         "63701d74f03239db6900014a",
         "63701d74f03239bef000014e",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20786,6 +20967,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400033d",
         "63701d74f03239f09e0001a4",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20805,6 +20987,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f000027",
         "63701d74f03239b7f7000024",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20828,6 +21011,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000041",
         "63701d74f03239b91300003d",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20841,6 +21025,7 @@ const dataAffiliateStat = [
       occupation: "Clinical Specialist",
       phoneNumber: "7552610177",
       transactions: ["63701d74f03239d591000330"],
+avatar: null,
       role: "admin",
     },
     {
@@ -20854,6 +21039,7 @@ const dataAffiliateStat = [
       occupation: "VP Sales",
       phoneNumber: "3663656410",
       transactions: ["63701d74f03239d591000331", "63701d74f03239b7f700003c"],
+avatar: null,
       role: "user",
     },
     {
@@ -20871,6 +21057,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e00019d",
         "63701d74f03239d40b000063",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20884,6 +21071,7 @@ const dataAffiliateStat = [
       occupation: "Structural Engineer",
       phoneNumber: "5823912564",
       transactions: ["63701d74f032396b8e000031", "63701d74f032399c0000014f"],
+avatar: null,
       role: "admin",
     },
     {
@@ -20905,6 +21093,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e000198",
         "63701d74f032396b8e000044",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20925,6 +21114,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c000195",
         "63701d74f032398675000150",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -20946,6 +21136,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f000044",
         "63701d74f03239d591000335",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -20968,6 +21159,7 @@ const dataAffiliateStat = [
         "63701d74f03239d59100034d",
         "63701d74f03239cdc500002a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -20988,6 +21180,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001b7",
         "63701d74f0323986f3000152",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21005,6 +21198,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000026",
         "63701d74f032394c49000131",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21028,6 +21222,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001b1",
         "63701d74f032394c49000136",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21047,6 +21242,7 @@ const dataAffiliateStat = [
         "63701d74f032394441000303",
         "63701d74f03239b7f700003e",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21069,6 +21265,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000145",
         "63701d74f03239db6900014d",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21082,6 +21279,7 @@ const dataAffiliateStat = [
       occupation: "Help Desk Operator",
       phoneNumber: "1173556780",
       transactions: ["63701d74f032398675000157"],
+avatar: null,
       role: "admin",
     },
     {
@@ -21101,6 +21299,7 @@ const dataAffiliateStat = [
         "63701d74f032394c49000134",
         "63701d74f032396b8e000038",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21122,6 +21321,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400034a",
         "63701d74f032396b8e000032",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21144,6 +21344,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f7000025",
         "63701d74f032395b3300013c",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21161,6 +21362,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300012f",
         "63701d74f032395694000043",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21183,6 +21385,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f000019",
         "63701d74f03239d81e000031",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21204,6 +21407,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001be",
         "63701d74f03239b913000025",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21227,6 +21431,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000014e",
         "63701d74f032390a34000336",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21240,6 +21445,7 @@ const dataAffiliateStat = [
       occupation: "Human Resources Manager",
       phoneNumber: "7699277602",
       transactions: ["63701d74f032395694000024", "63701d74f03239569400002c"],
+avatar: null,
       role: "admin",
     },
     {
@@ -21253,6 +21459,7 @@ const dataAffiliateStat = [
       occupation: "Account Representative II",
       phoneNumber: "7229851270",
       transactions: ["63701d74f032394c49000131", "63701d74f032394441000301"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21275,6 +21482,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000154",
         "63701d74f032395694000023",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21288,6 +21496,7 @@ const dataAffiliateStat = [
       occupation: "Geological Engineer",
       phoneNumber: "1966060890",
       transactions: ["63701d74f03239b7f700002b"],
+avatar: null,
       role: "admin",
     },
     {
@@ -21311,6 +21520,7 @@ const dataAffiliateStat = [
         "63701d74f03239b913000023",
         "63701d74f03239d591000350",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21332,6 +21542,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001a0",
         "63701d74f03239c72c000199",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21351,6 +21562,7 @@ const dataAffiliateStat = [
         "63701d74f032394c4900012f",
         "63701d74f0323944410002fe",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21371,6 +21583,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000026",
         "63701d74f03239d81e000041",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21384,6 +21597,7 @@ const dataAffiliateStat = [
       occupation: "Statistician I",
       phoneNumber: "1363061978",
       transactions: ["63701d74f032396b8e00003c", "63701d74f03239d81e00001e"],
+avatar: null,
       role: "user",
     },
     {
@@ -21408,6 +21622,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000151",
         "63701d74f03239cdc500003d",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21427,6 +21642,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001aa",
         "63701d74f032395694000038",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21451,6 +21667,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000035",
         "63701d74f03239bef000013d",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21464,6 +21681,7 @@ const dataAffiliateStat = [
       occupation: "Recruiting Manager",
       phoneNumber: "7549360846",
       transactions: ["63701d74f03239b7f700003f", "63701d74f032395b33000147"],
+avatar: null,
       role: "user",
     },
     {
@@ -21488,6 +21706,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000031",
         "63701d74f03239d40b00005e",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21506,6 +21725,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000037",
         "63701d74f03239528f00002f",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21519,6 +21739,7 @@ const dataAffiliateStat = [
       occupation: "Operator",
       phoneNumber: "7328227068",
       transactions: ["63701d74f0323986f3000144", "63701d74f03239f09e0001ad"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21537,6 +21758,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000019",
         "63701d74f03239569400001c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21561,6 +21783,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000159",
         "63701d74f03239528f00002a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21579,6 +21802,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000131",
         "63701d74f03239d81e000046",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21602,6 +21826,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000146",
         "63701d74f032398675000149",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21621,6 +21846,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f7000040",
         "63701d74f032399c00000134",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21634,6 +21860,7 @@ const dataAffiliateStat = [
       occupation: "Account Representative III",
       phoneNumber: "1405174082",
       transactions: ["63701d74f0323986f300015a"],
+avatar: null,
       role: "user",
     },
     {
@@ -21651,6 +21878,7 @@ const dataAffiliateStat = [
         "63701d74f032395b33000142",
         "63701d74f03239528f000024",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21664,6 +21892,7 @@ const dataAffiliateStat = [
       occupation: "Automation Specialist III",
       phoneNumber: "6994420029",
       transactions: ["63701d74f032398675000132"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21687,6 +21916,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400033c",
         "63701d74f03239d59100032c",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21709,6 +21939,7 @@ const dataAffiliateStat = [
         "63701d74f03239444100031a",
         "63701d74f03239f09e000192",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21729,6 +21960,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f700002d",
         "63701d74f032395b3300014f",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21751,6 +21983,7 @@ const dataAffiliateStat = [
         "63701d74f03239b91300003b",
         "63701d74f03239b913000038",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21769,6 +22002,7 @@ const dataAffiliateStat = [
         "63701d74f03239d591000335",
         "63701d74f03239c72c0001b5",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21787,6 +22021,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00008f",
         "63701d74f03239b7f700003b",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21807,6 +22042,7 @@ const dataAffiliateStat = [
         "63701d74f032394c49000144",
         "63701d74f032390a34000338",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21825,6 +22061,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000019",
         "63701d74f03239d81e000025",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21844,6 +22081,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00005d",
         "63701d74f03239d591000334",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21863,6 +22101,7 @@ const dataAffiliateStat = [
         "63701d74f03239d59100032d",
         "63701d74f03239d40b000088",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21887,6 +22126,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300013a",
         "63701d74f03239d591000333",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21904,6 +22144,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000133",
         "63701d74f03239528f00003b",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -21917,6 +22158,7 @@ const dataAffiliateStat = [
       occupation: "Registered Nurse",
       phoneNumber: "4314563977",
       transactions: ["63701d74f032399c0000012f", "63701d74f032390a34000350"],
+avatar: null,
       role: "user",
     },
     {
@@ -21937,6 +22179,7 @@ const dataAffiliateStat = [
         "63701d74f03239569400001f",
         "63701d74f03239c72c0001b9",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -21954,6 +22197,7 @@ const dataAffiliateStat = [
         "63701d74f032398675000157",
         "63701d74f03239528f00003e",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21974,6 +22218,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001bd",
         "63701d74f03239d40b00005a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -21987,6 +22232,7 @@ const dataAffiliateStat = [
       occupation: "Junior Executive",
       phoneNumber: "2391023260",
       transactions: ["63701d74f032395b3300014a", "63701d74f03239d40b00008e"],
+avatar: null,
       role: "user",
     },
     {
@@ -22005,6 +22251,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000145",
         "63701d74f03239db6900013a",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22018,6 +22265,7 @@ const dataAffiliateStat = [
       occupation: "Payment Adjustment Coordinator",
       phoneNumber: "4946177794",
       transactions: ["63701d74f03239f09e0001ae"],
+avatar: null,
       role: "user",
     },
     {
@@ -22041,6 +22289,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc5000039",
         "63701d74f03239b91300002e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22054,6 +22303,7 @@ const dataAffiliateStat = [
       occupation: "Automation Specialist IV",
       phoneNumber: "6926244944",
       transactions: ["63701d74f032394c4900014a", "63701d74f03239528f00002c"],
+avatar: null,
       role: "admin",
     },
     {
@@ -22078,6 +22328,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000038",
         "63701d74f03239cdc5000035",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22095,6 +22346,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300015b",
         "63701d74f032394c49000155",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22114,6 +22366,7 @@ const dataAffiliateStat = [
         "63701d74f032399c00000133",
         "63701d74f032390a34000338",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22135,6 +22388,7 @@ const dataAffiliateStat = [
         "63701d74f03239cdc500003a",
         "63701d74f032398675000151",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22148,6 +22402,7 @@ const dataAffiliateStat = [
       occupation: "Structural Engineer",
       phoneNumber: "7062098184",
       transactions: ["63701d74f032396b8e000040", "63701d74f03239b91300002d"],
+avatar: null,
       role: "user",
     },
     {
@@ -22171,6 +22426,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef0000140",
         "63701d74f032390a34000330",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22189,6 +22445,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b00006a",
         "63701d74f032395b3300014b",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22213,6 +22470,7 @@ const dataAffiliateStat = [
         "63701d74f03239db69000137",
         "63701d74f03239c72c0001b3",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22237,6 +22495,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f00003f",
         "63701d74f03239db6900014a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22256,6 +22515,7 @@ const dataAffiliateStat = [
         "63701d74f032394441000309",
         "63701d74f03239528f000037",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22269,6 +22529,7 @@ const dataAffiliateStat = [
       occupation: "Recruiter",
       phoneNumber: "5203611244",
       transactions: ["63701d74f03239d40b00008b", "63701d74f03239db69000145"],
+avatar: null,
       role: "admin",
     },
     {
@@ -22289,6 +22550,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f7000020",
         "63701d74f03239528f00003e",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22310,6 +22572,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e000196",
         "63701d74f032395694000041",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22329,6 +22592,7 @@ const dataAffiliateStat = [
         "63701d74f032390a3400032f",
         "63701d74f032394c49000131",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22349,6 +22613,7 @@ const dataAffiliateStat = [
         "63701d74f032390a34000349",
         "63701d74f03239444100031b",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22371,6 +22636,7 @@ const dataAffiliateStat = [
         "63701d74f03239b913000025",
         "63701d74f03239cdc5000034",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22384,6 +22650,7 @@ const dataAffiliateStat = [
       occupation: "Business Systems Development Analyst",
       phoneNumber: "3848778104",
       transactions: ["63701d74f03239cdc500003b", "63701d74f03239d40b000089"],
+avatar: null,
       role: "user",
     },
     {
@@ -22408,6 +22675,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f700002f",
         "63701d74f03239d591000331",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22421,6 +22689,7 @@ const dataAffiliateStat = [
       occupation: "Desktop Support Technician",
       phoneNumber: "6601817739",
       transactions: ["63701d74f0323986f300014d"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22434,6 +22703,7 @@ const dataAffiliateStat = [
       occupation: "Software Test Engineer IV",
       phoneNumber: "7542221334",
       transactions: ["63701d74f032394c49000151", "63701d74f03239d40b000080"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22451,6 +22721,7 @@ const dataAffiliateStat = [
         "63701d74f0323986f3000148",
         "63701d74f0323944410002f4",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22475,6 +22746,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e0001b2",
         "63701d74f03239867500014b",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22493,6 +22765,7 @@ const dataAffiliateStat = [
         "63701d74f03239db6900015b",
         "63701d74f03239b7f7000041",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22512,6 +22785,7 @@ const dataAffiliateStat = [
         "63701d74f03239b7f7000029",
         "63701d74f03239569400003a",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22529,6 +22803,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e000198",
         "63701d74f032396b8e000044",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22551,6 +22826,7 @@ const dataAffiliateStat = [
         "63701d74f032399c0000015b",
         "63701d74f032396b8e000032",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22568,6 +22844,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00002f",
         "63701d74f0323986f300013a",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22591,6 +22868,7 @@ const dataAffiliateStat = [
         "63701d74f03239bef000013a",
         "63701d74f03239d40b000060",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22613,6 +22891,7 @@ const dataAffiliateStat = [
         "63701d74f032394441000302",
         "63701d74f03239bef0000147",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22630,6 +22909,7 @@ const dataAffiliateStat = [
         "63701d74f032395694000024",
         "63701d74f03239d40b000089",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22652,6 +22932,7 @@ const dataAffiliateStat = [
         "63701d74f032395b3300012f",
         "63701d74f032398675000134",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22669,6 +22950,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000046",
         "63701d74f03239569400001d",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22692,6 +22974,7 @@ const dataAffiliateStat = [
         "63701d74f03239d81e00001c",
         "63701d74f032394441000301",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22705,6 +22988,7 @@ const dataAffiliateStat = [
       occupation: "Nurse Practicioner",
       phoneNumber: "4544363972",
       transactions: ["63701d74f03239bef000015b", "63701d74f03239b91300002c"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22722,6 +23006,7 @@ const dataAffiliateStat = [
         "63701d74f03239444100030e",
         "63701d74f03239c72c00019b",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22740,6 +23025,7 @@ const dataAffiliateStat = [
         "63701d74f03239d40b000074",
         "63701d74f03239528f000042",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22757,6 +23043,7 @@ const dataAffiliateStat = [
         "63701d74f032394441000307",
         "63701d74f032395694000043",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22774,6 +23061,7 @@ const dataAffiliateStat = [
         "63701d74f03239d591000332",
         "63701d74f03239569400001c",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22787,6 +23075,7 @@ const dataAffiliateStat = [
       occupation: "Developer IV",
       phoneNumber: "6824178344",
       transactions: ["63701d74f03239d81e000043", "63701d74f03239f09e0001bf"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22800,6 +23089,7 @@ const dataAffiliateStat = [
       occupation: "Web Designer I",
       phoneNumber: "5559497135",
       transactions: ["63701d74f03239c72c000196"],
+avatar: null,
       role: "user",
     },
     {
@@ -22820,6 +23110,7 @@ const dataAffiliateStat = [
         "63701d74f03239528f00003a",
         "63701d74f032394c49000130",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22841,6 +23132,7 @@ const dataAffiliateStat = [
         "63701d74f032396b8e000036",
         "63701d74f03239f09e0001a4",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22854,6 +23146,7 @@ const dataAffiliateStat = [
       occupation: "Nurse",
       phoneNumber: "2731484562",
       transactions: ["63701d74f03239b7f700001e"],
+avatar: null,
       role: "user",
     },
     {
@@ -22872,6 +23165,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001a1",
         "63701d74f03239528f00002f",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22885,6 +23179,7 @@ const dataAffiliateStat = [
       occupation: "Design Engineer",
       phoneNumber: "6449317103",
       transactions: ["63701d74f03239b913000045"],
+avatar: null,
       role: "user",
     },
     {
@@ -22903,6 +23198,7 @@ const dataAffiliateStat = [
         "63701d74f032394c4900013d",
         "63701d74f03239b7f7000042",
       ],
+avatar: null,
       role: "admin",
     },
     {
@@ -22916,6 +23212,7 @@ const dataAffiliateStat = [
       occupation: "Geological Engineer",
       phoneNumber: "8768925153",
       transactions: ["63701d74f032395b33000131", "63701d74f03239b913000030"],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22937,6 +23234,7 @@ const dataAffiliateStat = [
         "63701d74f03239c72c0001bc",
         "63701d74f03239d59100032d",
       ],
+avatar: null,
       role: "user",
     },
     {
@@ -22960,6 +23258,7 @@ const dataAffiliateStat = [
         "63701d74f03239f09e000195",
         "63701d74f03239c72c0001b7",
       ],
+avatar: null,
       role: "superadmin",
     },
     {
@@ -22973,8 +23272,47 @@ const dataAffiliateStat = [
       occupation: "Social Worker",
       phoneNumber: "1371356593",
       transactions: ["63701d74f032399c0000014f", "63701d74f03239b7f700003f"],
+avatar: null,
       role: "admin",
     },
   ];
+  const banners = [
+    {
+        image: 'https://files.fullstack.edu.vn/f8-prod/banners/Banner_03_youtube.png',
+        title: 'Thành Quả của Học Viên',
+        subTitle: 'Để đạt được kết quả tốt trong mọi việc ta cần xác định mục tiêu rõ ràng cho việc đó. Học lập trình cũng không là ngoại lệ.',
+        btnText: 'Xem thành quả',
+        navLink: null,
+        color: `#fe215e`,
+        background: `linear-gradient(to right, rgb(254, 33, 94), rgb(255, 148, 2))`
+    },
+    {
+        image: 'https://files.fullstack.edu.vn/f8-prod/banners/Banner_03_youtube.png',
+        title: 'Thành Quả của Học Viên',
+        subTitle: 'Để đạt được kết quả tốt trong mọi việc ta cần xác định mục tiêu rõ ràng cho việc đó. Học lập trình cũng không là ngoại lệ.',
+        btnText: 'Xem thành quả',
+        navLink: null,
+        color: `#007efe`,
+        background: `linear-gradient(to right, rgb(0, 126, 254), rgb(6, 195, 254))`
+    },
+    {
+        image: 'https://files.fullstack.edu.vn/f8-prod/banners/Banner_03_youtube.png',
+        title: 'Thành Quả của Học Viên',
+        subTitle: 'Để đạt được kết quả tốt trong mọi việc ta cần xác định mục tiêu rõ ràng cho việc đó. Học lập trình cũng không là ngoại lệ.',
+        btnText: 'Xem thành quả',
+        navLink: null,
+        color: `#7612ff`,
+        background: `linear-gradient(to right, rgb(104, 40, 250), rgb(255, 186, 164))`
+    },
+    {
+        image: 'https://files.fullstack.edu.vn/f8-prod/banners/Banner_03_youtube.png',
+        title: 'Thành Quả của Học Viên',
+        subTitle: 'Để đạt được kết quả tốt trong mọi việc ta cần xác định mục tiêu rõ ràng cho việc đó. Học lập trình cũng không là ngoại lệ.',
+        btnText: 'Xem thành quả',
+        navLink: null,
+        color: `#6828fa`,
+        background: `linear-gradient(to right, rgb(40, 119, 250), rgb(103, 23, 205))`
+    },
+]
 
-  module.exports = { dataAffiliateStat, dataOverallStat, dataProduct, dataProductStat, dataTransaction, dataUser }
+  module.exports = { dataAffiliateStat, dataOverallStat, dataProduct, dataProductStat, dataTransaction, dataUser, banners }

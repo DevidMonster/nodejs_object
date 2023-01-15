@@ -15,6 +15,7 @@ app.use(cors());
 mongoose.set('strictQuery', false)
 
 const User = require('./app/models/user');
+const Banner = require('./app/models/banner');
 const data = require('./data');
 
 // database init
@@ -72,10 +73,12 @@ app.use(function (req, res, next) {
 const generalRoutes = require('./routes/general');
 const categoryRoutes = require('./routes/category');
 const itemRoutes = require('./routes/Item');
+const bannerRoutes = require('./routes/banner');
 
 app.use('/general', generalRoutes);
 app.use('/category', categoryRoutes);
 app.use('/item', itemRoutes);
+app.use('/banner', bannerRoutes);
 
 //connect database
 mongoose.connect(process.env.MONGO_URL, {
@@ -87,6 +90,7 @@ mongoose.connect(process.env.MONGO_URL, {
     });
 
     /*ONLY ADD DATA ONE TIME*/ 
+    //Banner.insertMany(data.banners)
     //User.insertMany(data.dataUser)
 }).catch((error) => console.log(`${error} did not connect`))
 
