@@ -81,7 +81,7 @@ app.use('/item', itemRoutes);
 app.use('/banner', bannerRoutes);
 
 //connect database
-mongoose.connect(process.env.MONGO_URL, {
+mongoose.connect(process.env.MONGO_URL , {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 }).then(() => {
