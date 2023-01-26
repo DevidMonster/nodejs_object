@@ -14,6 +14,11 @@ const ProductSchema = new mongoose.Schema(
     },
     description: String,
     price: Number,
+    quantity: {
+        type: Number,
+        default: 0,
+        min: 0
+    },
     view_total: {
         type: Number,
         min: 0,
